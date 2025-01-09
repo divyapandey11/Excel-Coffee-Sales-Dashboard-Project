@@ -12,7 +12,7 @@ Key Features:
   - Added calculated columns for metrics like total sales, profit margin, or sales percentage contribution.
 
 > Pivot Tables for Analysis:
-    Created pivot tables to summarize data by:
+  -> Created pivot tables to summarize data by:
       - Product category (e.g., espresso, latte, cappuccino).
       - Regional performance (e.g., North, South, East, West).
       - Sales trends over time (e.g., monthly, quarterly).
