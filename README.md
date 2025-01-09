@@ -11,12 +11,11 @@ Key Features:
   - Organized the data into structured columns for attributes like product name, sales date, sales amount, region, customer type, etc.
   - Added calculated columns for metrics like total sales, profit margin, or sales percentage contribution.
 
-> Pivot Tables for Analysis:
-  -> Created pivot tables to summarize data by:
-      - Product category (e.g., espresso, latte, cappuccino).
-      - Regional performance (e.g., North, South, East, West).
-      - Sales trends over time (e.g., monthly, quarterly).
-      - Dashboard Elements:
+> Pivot Tables for Analysis: Created pivot tables to summarize data by:
+  - Product category (e.g., espresso, latte, cappuccino).
+  - Regional performance (e.g., North, South, East, West).
+  - Sales trends over time (e.g., monthly, quarterly).
+  - Dashboard Elements:
 
 > Sales Overview Section: 
   - Displayed total sales, total units sold, and average order value in a summary card format.
